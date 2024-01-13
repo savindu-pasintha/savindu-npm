@@ -2,15 +2,18 @@
 
 ### `npm i simplify-code`
 This is an open-source Node.js module package. It is a public npm package that anyone can install and use.
-
+```How to use in your project
+import simplyfyCode from "simplyfy-code"
+const print = simplyCode.AvailabeMethods();
+```
 ##### How To Contribute To Simplify-Code
 
 ###### If you are planning to contribute to the Simplify-Code npm repository, this is the right way for you.
 
-## Purpose
+##### Purpose
 The main purpose of this npm package is to simplify the codebase and reduce code complexity in your project. For example, this package supports the use of built-in utility functions defined within it. If you are writing a complex method, function, or algorithm, you can easily import and use these functions in your JavaScript/Node.js codebase.
 
-## As a Code Contributor for Simplify-Code
+#### As a Code Contributor for Simplify-Code
 When you are working on your project or dealing with complex or hard-to-memorize JavaScript methods as a code contributor for Simplify-Code, you can include them here and commit the code to this repository for future use.
 
 #### Code Contributors Guidelines & How to Commit Code (For Project Maintenance Purposes)
