@@ -1,6 +1,6 @@
 {
   "name": "simplify-code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The main purpose of this npm package is to simplify the codebase and reduce code complexity in your project. For example, this package supports the use of built-in utility functions defined within it. If you are writing a complex method, function, or algorithm, you can easily import and use these functions in your JavaScript/Node.js codebase.  ",
   "author": "simplify-code",
   "license": "ISC",
