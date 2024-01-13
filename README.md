@@ -14,33 +14,21 @@
 Notice : If you are a new developer, follow these steps to set up your development environment:
 1. **Clone the Repository:**
    - Clone the project repository to your local machine using the following command:
-     ```bash
+     ```Terminal
      git clone <repository-url>
-     ```
-2. **Navigate to the Project Directory:**
-   - Move into the project directory:
-     ```bash
      cd <project-directory>
-     ```
-#### 3. **Create Your Own Folder:**
-   - Inside the project root, create a new folder with your name or preferred identifier. This will be your workspace for development.
-     ```bash
-     mkdir your-own-folder
-     ```
-4. **Start Coding:**
-   - Now you are ready to start coding within your designated folder. Feel free to organize your code and files as needed.
-
-5. **Commit Your Changes:**
-   - As you make progress, commit your changes to your branch:
-     ```bash
+     git checkout Your-own-branch
+     mkdir your-own-folder(Your email) inside the project root.
+     
+     When you coding. inside your folder. create index.js/.ts file and inside remeber to export your Methos/Algorithm Function.
+     ex : exports.printMsg = function() {console.log("This is a message from the demo package");}
+     
      git add .
      git commit -m "Your descriptive commit message"
-     ```
-6. **Push Changes:**
-   - Push your changes to the repository:
-     ```bash
      git push origin your-branch
 
+     After the code review, you can use your code by installing the simply-code package with the command npm i simplyfy-code the next day.
+     ```
 #### Benefits for Code Contributors
 1. **Skill Development:**
    - Encourages employees to enhance and diversify their skill set.
