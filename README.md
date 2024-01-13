@@ -1,7 +1,7 @@
 # WELCOME TO SIMPLIFY-CODE
 
 <h><a href="https://www.npmjs.com/package/simplify-code">npm i simplify-code</a></h>
-### ``
+
 This is an open-source Node.js module package. It is a public npm package that anyone can install and use.
 ```How to use in your project
 import simplyfyCode from "simplyfy-code"
