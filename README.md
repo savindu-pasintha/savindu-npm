@@ -23,8 +23,13 @@ Notice : If you are a new developer, follow these steps to set up your developme
      git checkout Your-own-branch
      mkdir your-own-folder(Your email) inside the project root.
      
-     When you coding. inside your folder. create index.js/.ts file and inside remeber to export your Methos/Algorithm Function.
-     ex : exports.printMsg = function() {console.log("This is a message from the demo package");}
+     When you coding. inside your folder. create index.js/.ts file and inside remeber to export your Methos/Algorithm Function. 
+     ex :
+     /* Add your comment for This functon */ 
+     exports.printMsg = function() {console.log("This is a message from the demo package");}
+
+     Also add your own Readme.md file and describe your code.
+     ex : printMsg() : You can use for the print the message. 
      
      git add .
      git commit -m "Your descriptive commit message"
