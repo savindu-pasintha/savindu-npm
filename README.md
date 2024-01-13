@@ -4,7 +4,7 @@
 This is an open-source Node.js module package. It is a public npm package that anyone can install and use.
 ```How to use in your project
 import simplyfyCode from "simplyfy-code"
-const print = simplyCode.AvailabeMethods();
+const print = simplyCode.AvailableMethods();
 ```
 ##### How To Contribute To Simplify-Code
 
